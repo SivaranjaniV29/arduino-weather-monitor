@@ -20,6 +20,8 @@ the readings in the Serial Monitor.
 - C/C++
 - DHT11 sensor
 
-## Output
-Add a photo of the working hardware and the
-Serial Monitor output here.
+
+## Project Output
+
+![Arduino Weather Monitoring Output](image-1791802132579.jpg)
+
